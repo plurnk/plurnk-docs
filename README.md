@@ -1,4 +1,4 @@
-> **DISSOLVED into `@plurnk/plurnk-service`** — the teaching corpus is core-native (`plurnk-core/docs/` in [`plurnk/plurnk-service`](https://github.com/plurnk/plurnk-service)). This repo is an archived snapshot; the npm package is deprecated.
+> **DISSOLVED into `@plurnk/plurnk-meta`** — the teaching corpus (personality, requirements, scheme docs) ships in the metaproject layer package ([`plurnk/plurnk-service`](https://github.com/plurnk/plurnk-service), `plurnk-meta/`); the daemon pulls it at runtime. This repo is an archived snapshot; the npm package is deprecated.
 
 # plurnk-docs
 
