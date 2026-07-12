@@ -1,3 +1,5 @@
+> **DISSOLVED into `@plurnk/plurnk-service`** — the teaching corpus is core-native (`plurnk-core/docs/` in [`plurnk/plurnk-service`](https://github.com/plurnk/plurnk-service)). This repo is an archived snapshot; the npm package is deprecated.
+
 # plurnk-docs
 
 The plurnk teaching corpus. Markdown consumed by [plurnk-service](https://github.com/plurnk/plurnk-service) at runtime — no code, no build.
